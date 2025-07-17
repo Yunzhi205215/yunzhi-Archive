@@ -1,0 +1,88 @@
+baseURL = 'http://localhost:1313/'
+languageCode = 'en-us'
+title = "Yunzhi's Archive"
+theme = 'PaperMod'
+defaultContentLanguage = "en"
+enableInlineShortcodes = true
+enableEmoji = true
+canonifyURLs = true
+
+[pagination]
+  pagerSize = 10
+
+[params]
+  author = "Yunzhi"
+  showToc = true
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  defaultTheme = "dark"
+  disableThemeToggle = false
+  images = ["images/Irene_Halloween.png"]
+
+
+[menu]
+
+[[menu.main]]
+  identifier = "home"
+  name = "🧙🏻‍♀️Home"
+  url = "/"
+  weight = 0
+
+[[menu.main]]
+  name = "🖋Fiction"
+  url = "/fiction/"
+  weight = 1
+
+[[menu.main]]
+  name = "Gallery"
+  url = "/gallery/"
+  weight = 2
+
+[[menu.main]]
+  name = "Witch Lore"
+  url = "/witch-lore/"
+  weight = 3
+
+[[menu.main]]
+  name = "Music"
+  url = "/music/"
+  weight = 4
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 5
+
+
+
+# 其他顶级菜单
+[[menu.main]]
+  identifier = "gallery"
+  name = "Gallery"
+  url = "/gallery/"
+  weight = 10
+
+[[menu.main]]
+  identifier = "witch-lore"
+  name = "Witch Lore"
+  url = "/witch-lore/"
+  weight = 11
+
+  [[menu.main]]
+  identifier = "music"
+  name = "Music"
+  url = "/music/"
+  weight = 12
+
+[[menu.main]]
+  identifier = "about"
+  name = "About"
+  url = "/about/"
+  weight = 13
+
+
+
+
+
