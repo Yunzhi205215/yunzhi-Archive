@@ -1,6 +1,9 @@
 +++
-title = "Main Story"
+title = "Fiction"
 +++
 
-🖋 这里是《寄时》的故事...
+<p style="text-indent:0; margin-left:0;">
+🖋 📚这里是各种小说的合集...
+</p>
 
+<script defer src="/js/cursor-stars.js"></script>

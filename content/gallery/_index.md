@@ -1,5 +1,9 @@
 +++
-date = '2025-07-17T01:18:41-05:00'
-draft = true
-title = 'Gallery'
+title = "Arts"
 +++
+
+<p style="text-indent:0; margin-left:0;">
+🖌🌃All the shitty artworks, including doodles, manga, illustrations, anything you can imagine!
+</p>
+
+<script defer src="/js/cursor-stars.js"></script>

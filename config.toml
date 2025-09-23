@@ -1,4 +1,4 @@
-baseURL = 'http://localhost:1313/'
+baseURL = '/'
 languageCode = 'en-us'
 title = "Yunzhi's Archive"
 theme = 'PaperMod'
@@ -12,14 +12,24 @@ canonifyURLs = true
 
 [params]
   author = "Yunzhi"
-  showToc = true
+  ShowToc = true
   ShowReadingTime = true
-  ShowPostNavLinks = true
+  ShowPostNavLinks = false
   ShowBreadCrumbs = true
   ShowCodeCopyButtons = true
   defaultTheme = "dark"
   disableThemeToggle = false
   images = ["images/Irene_Halloween.png"]
+  disableSpecial1stPost = true
+
+# config.toml
+[minify]
+  disableJSON = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 
 [menu]
@@ -30,34 +40,54 @@ canonifyURLs = true
   url = "/"
   weight = 0
 
+
+# 🧙🏻‍♀️ 首页
 [[menu.main]]
+  identifier = "fiction"
   name = "🖋Fiction"
   url = "/fiction/"
   weight = 1
 
+# 子菜单：To Serein
 [[menu.main]]
-  name = "Gallery"
-  url = "/gallery/"
+  identifier = "to-serein"
+  name = "To Serein"
+  url = "/fiction/to-serein/"
+  weight = 1
+  parent = "fiction"
+
+[[menu.main]]
+  identifier = "to-serein-main"
+  name = "Main Story"
+  url = "/fiction/to-serein/main/"
+  weight = 1
+  parent = "to-serein"
+
+[[menu.main]]
+  identifier = "to-serein-extras"
+  name = "Extras"
+  url = "/fiction/to-serein/extras/"
   weight = 2
+  parent = "to-serein"
 
+# 子菜单：The Black Hole Office
 [[menu.main]]
-  name = "Witch Lore"
-  url = "/witch-lore/"
+  identifier = "black-hole-office"
+  name = "The Black Hole Office"
+  url = "/fiction/black-hole-office/"
+  weight = 2
+  parent = "fiction"
+
+# 子菜单：Short Stories
+[[menu.main]]
+  identifier = "short-stories"
+  name = "Short Stories"
+  url = "/fiction/shorts/"
   weight = 3
-
-[[menu.main]]
-  name = "Music"
-  url = "/music/"
-  weight = 4
-
-[[menu.main]]
-  name = "About"
-  url = "/about/"
-  weight = 5
+  parent = "fiction"
 
 
-
-# 其他顶级菜单
+# 🎨 Gallery 及其子菜单
 [[menu.main]]
   identifier = "gallery"
   name = "Gallery"
@@ -65,12 +95,34 @@ canonifyURLs = true
   weight = 10
 
 [[menu.main]]
+  identifier = "gallery-serein"
+  name = "To Serein"
+  url = "/gallery/to-serein/"
+  weight = 1
+  parent = "gallery"
+
+[[menu.main]]
+  identifier = "gallery-blackhole"
+  name = "The Black Hole Office"
+  url = "/gallery/black-hole-office/"
+  weight = 2
+  parent = "gallery"
+
+[[menu.main]]
+  identifier = "gallery-doodle"
+  name = "Doodle"
+  url = "/gallery/doodle/"
+  weight = 3
+  parent = "gallery"
+
+# 📜 其他菜单
+[[menu.main]]
   identifier = "witch-lore"
   name = "Witch Lore"
   url = "/witch-lore/"
   weight = 11
 
-  [[menu.main]]
+[[menu.main]]
   identifier = "music"
   name = "Music"
   url = "/music/"
@@ -81,6 +133,12 @@ canonifyURLs = true
   name = "About"
   url = "/about/"
   weight = 13
+
+
+
+
+
+
 
 
 
