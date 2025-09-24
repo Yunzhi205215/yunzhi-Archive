@@ -1,7 +1,7 @@
 +++
 title  = "Chapter IV"
 draft  = false
-series = ["to-serein"]
+series = ["To Serein · Main"]
 tags   = ["To Serein"]
 ShowToc = true
 weight = 4

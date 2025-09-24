@@ -1,6 +1,6 @@
 +++
 title = "Chapter II"
-series = ["to-serein"]
+series = ["To Serein · Main"]
 tags   = ["To Serein"]
 ShowToc = true
 draft = false

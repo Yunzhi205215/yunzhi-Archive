@@ -2,7 +2,6 @@
 title  = "Chapter∅·PartII"
 draft  = false
 series = ["to-serein"]
-tags   = ["To Serein"]
 ShowToc = true
 weight = 2
 hiddenInHomeList = true

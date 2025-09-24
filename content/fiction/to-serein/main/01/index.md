@@ -2,8 +2,8 @@
 title   = "Chapter I"
 weight  = 1
 draft   = false
-series = ["to-serein"]
-tags    = ["To Serein"]
+series = ["To Serein · Main"]
+tags   = ["To Serein"]
 ShowToc = true
 hiddenInHomeList = true
 +++
