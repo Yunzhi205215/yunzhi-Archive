@@ -1,5 +1,5 @@
 +++
-title = "黑洞办公室"
+title = "The Black Hole Office"
 date = 2025-07-17
 weight = 1
 +++
