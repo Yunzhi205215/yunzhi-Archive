@@ -467,3 +467,8 @@ hiddenInHomeList = true
 诺伊在时伢清明的无知里，慢慢扬起时伢熟悉的笑容，一如既往的温和，淡然，却被月光衬得如此悲戚。他抚向时伢的脸颊，抬眼，下垂的指尖模糊在窗外一轮圆月的边缘。
 
 艾琳眸色黯了黯，在沉默间裹紧衣袍，踏着两人的倒影，悄无声息地走进门外的风雪中。
+
+<div class="chapter-nav">
+  <a href="{{< relref "fiction/to-serein/prologue/part1" >}}">« Prev</a>
+  <a href="{{< relref "fiction/to-serein/prologue/part3" >}}">Next »</a>
+</div>

@@ -502,7 +502,7 @@ hiddenInHomeList = true
 *注释：(a) 由于埃普西隆 (epsilon)的姓氏是希腊字母，所以时伢也照葫芦画瓢报上了一个希腊字母 (alpha); (b)参考魔术师: David Berglas, Max Malini, Max Marvin, Nevil Maskelyne, 刘谦; (c)原版Berglas Effect的魔术中没有洗牌的环节，可能会直接影响此魔术的成功率，我不清楚，因为这个魔术至今还无人破解。(d): 叠甲注释: 虽然南丁格尔的事迹是人类之光，但不可否认的是她的努力收效最高的是第二次鸦片战争(1860)，对于中国人而言还是比较讽刺的。我没有倾向于任何一方，安意也没有，我们反对一切战争。*
           
 
-
 <div class="chapter-nav">
   <a href="{{< relref "fiction/to-serein/main/03" >}}">« Prev</a>
+  <span></span>
 </div>

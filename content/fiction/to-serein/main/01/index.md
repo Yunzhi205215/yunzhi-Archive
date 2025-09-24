@@ -191,7 +191,7 @@ hiddenInHomeList = true
 艾琳说罢，将手中的红酒一饮而尽，顺手将另一杯递给时伢。时伢伸手接过，左手无名指的戒圈的光顺着红酒的晃动的色泽轻轻摆荡了一圈，碰巧落入艾琳的眼底。艾琳脸上的笑意淡去几分，她修长的右手举着玻璃的杯托，望向窗外大得令人心生恐惧的月亮，不再言语.
 
 <div class="chapter-nav">
-  <span></span>
+  <a href="{{< relref "fiction/to-serein/main" >}}">« Back</a>
   <a href="{{< relref "fiction/to-serein/main/02" >}}">Next »</a>
 </div>
 

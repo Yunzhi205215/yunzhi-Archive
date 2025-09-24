@@ -450,3 +450,7 @@ hiddenInHomeList = true
 
 “那个…你是想吃橙子吗？”
 
+<div class="chapter-nav">
+  <a href="{{< relref "fiction/to-serein/prologue/part2" >}}">« Prev</a>
+  <a href="{{< relref "fiction/to-serein" >}}">To Serein »</a>
+</div>

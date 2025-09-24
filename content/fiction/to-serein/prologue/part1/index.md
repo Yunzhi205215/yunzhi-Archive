@@ -516,3 +516,8 @@ hiddenInHomeList = true
 
 “这样应该不凉了。”
 
+<div class="chapter-nav">
+  <a href="{{< relref "fiction/to-serein/prologue" >}}">« Back</a>
+  <a href="{{< relref "fiction/to-serein/prologue/part2" >}}">Next »</a>
+</div>
+
