@@ -6,7 +6,7 @@ draft = false
 ## About Me ✨
 
 <p style="text-indent:0; margin-left:0;">
-Hi, I am **Yunzhi** 💫, a researcher currently based in the Midwest, US, who enjoys writing stories, drawing, and music 🎨🎶.  
+Hi, I am **Yunzhi** 💫, a researcher currently based in the Midwest, US, who enjoys writing stories, drawing, and music 🎨🎶.  I am a native Chinese speaker with proficient English and Japanese skills😄
 </p>
 
 <p style="text-indent:0; margin-left:0;">
