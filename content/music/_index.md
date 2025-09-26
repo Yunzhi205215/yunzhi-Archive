@@ -30,6 +30,65 @@ date = "2025-07-17"
 
 ---
 
+### *“To serein”*  
+*Piano improvisation* 
+
+<audio controls preload="metadata">
+  <source src="/audio/2serein.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+---
+
+### *“Opening-Story Telling”*  
+*Piano improvisation* 
+
+<audio controls preload="metadata">
+  <source src="/audio/opening.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+---
+
+### *“Good Night?”*  
+*Piano improvisation* 
+
+<audio controls preload="metadata">
+  <source src="/audio/nightdream.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+---
+
+### *“Demo 1”*  
+*Piano improvisation* 
+
+<audio controls preload="metadata">
+  <source src="/audio/demo1.m4a" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+---
+
+### *“Demo 2”*  
+*Piano improvisation* 
+
+<audio controls preload="metadata">
+  <source src="/audio/demo2.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+---
+### *“Demo 3”*  
+*Piano improvisation* 
+
+<audio controls preload="metadata">
+  <source src="/audio/demo3.m4a" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+
+
 <p style="text-indent:0; margin-left:0;">
 Enjoy the music while exploring the stories. 🌙
 </p>

@@ -22,6 +22,9 @@ canonifyURLs = true
   images = ["images/Irene_Halloween.png"]
   disableSpecial1stPost = true
 
+[params.assets]
+  customCSS = ["css/extended/neplayer.css"]
+
 # config.toml
 [minify]
   disableJSON = true
