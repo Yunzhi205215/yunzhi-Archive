@@ -458,5 +458,5 @@ hiddenInHomeList = true
 
 <div class="chapter-nav">
   <a href="{{< relref "fiction/to-serein/main/06" >}}">« Prev</a>
-  <span></span>
+  <a href="{{< relref "fiction/to-serein/main/08" >}}">Next »</a>
 </div>

@@ -28,3 +28,47 @@ p {
   margin: 0 0 1em 0;
   text-indent: 0;
 }
+
+/* 部分段落的更宽行距 */
+.post-content p.extra-space {
+  margin-top: 2.5em;   /* 普通是 1em，这里多 1.5*/
+  margin-bottom: 2.5em;
+}
+
+/* 跟上部分段落的更宽行距 */
+.post-content p.extra-top {
+  margin-top: 2.5em;   /* 上面比普通多 1.5 倍 */
+  margin-bottom: 1em;  /* 保持和普通段落一样 */
+}
+
+/* wenkai段落 */
+@font-face {
+  font-family: "LXGW WenKai TC";
+  src: url("/fonts/lxgwwenkai/lxgw-wenkai-tc-v9-chinese-traditional-regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 工具类：让某个段落用文楷 */
+.post-content p.font-kaiti,
+.post-content .font-kaiti {
+  font-family: "LXGW WenKai TC", serif !important;
+}
+
+/* 整段加粗的工具类：包在容器上即可 */
+.post-content .bold-block {
+  font-weight: 700 !important;   /* 强制粗 */
+  font-synthesis: weight;        /* 若只有 Regular，允许浏览器伪粗 */
+}
+
+/* 防止子元素把粗体又改回去 */
+.post-content .bold-block * {
+  font-weight: inherit !important;
+}
+
+/* （可选）楷体工具类——你已有就不用重复 */
+.post-content .font-kaiti,
+.post-content p.font-kaiti {
+  font-family: "LXGW WenKai TC" !important;
+}
