@@ -552,20 +552,20 @@ Witches are watching you...
   </div>
 
   <div class="item">
-    <a href="/images/Random23.png">
-      <img class="thumb" loading="lazy"
-           src="/images/Random23.png"
-           alt="Random23"
-           title="Random23">
-    </a>
-  </div>
-
-  <div class="item">
     <a href="/images/Random24.png">
       <img class="thumb" loading="lazy"
            src="/images/Random24.png"
            alt="Random24"
            title="Random24">
+    </a>
+  </div>
+
+  <div class="item">
+    <a href="/images/Random23.png">
+      <img class="thumb" loading="lazy"
+           src="/images/Random23.png"
+           alt="Random23"
+           title="Random23">
     </a>
   </div>
 

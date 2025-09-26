@@ -6,6 +6,7 @@ defaultContentLanguage = "en"
 enableInlineShortcodes = true
 enableEmoji = true
 canonifyURLs = true
+copyright = "© 2025 Yunzhi's Archive · All rights reserved"
 
 [pagination]
   pagerSize = 10
