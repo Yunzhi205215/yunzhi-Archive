@@ -1,3 +1,4 @@
+
 .post-content p {
   text-indent: 2em;   /* 每段首行缩进两个字 */
   line-height: 1.9;
@@ -7,4 +8,23 @@
 p {
   text-indent: 1.5em;
   line-height: 1.8;
+}
+
+/* 1) 自托管字体（相对打包后 /assets/css/stylesheet.css 的路径） */
+@font-face {
+  font-family: "Zhi Mang Xing Local";
+  src: url("/fonts/zhimangxing/zhi-mang-xing-v19-chinese-simplified-regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 2) 信件区字体覆盖（放到文件最后，保证优先级） */
+.post-content .letter,
+.post-content .letter p,
+.post-content .letter * {
+  font-family: "Zhi Mang Xing Local", "KaiTi", "Kaiti SC", serif !important;
+  line-height: 1.7;
+  margin: 0 0 1em 0;
+  text-indent: 0;
 }

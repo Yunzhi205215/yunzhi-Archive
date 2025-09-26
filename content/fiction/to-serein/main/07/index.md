@@ -78,31 +78,31 @@ hiddenInHomeList = true
 
 信件内部和信封上的字体一致，字迹工整，用词谨慎谦逊，显然出自受过高等教育的英国绅士。
 
-<div style="font-family:KaiTi,'Kaiti SC',serif;font-size:1em;line-height:1.7;margin:0 0 1em 0;text-indent:0;margin-left:0;">
+<div class="letter">
 亲爱的艾琳小姐:
 </div>
 
-<div style="font-family:KaiTi,'Kaiti SC',serif;font-size:1em;line-height:1.7;margin:0 0 1em 0;text-indent:0;margin-left:0;">
+<div class="letter">
 希望你一切安好。
 </div>
 
-<div style="font-family:KaiTi,'Kaiti SC',serif;font-size:1em;line-height:1.7;margin:0 0 1em 0;text-indent:0;margin-left:0;">
+<div class="letter">
 很抱歉我以这样匆忙的方式和您联系。这周事务缠身，周六清晨就要出发前往爱丁堡觐见王室，所以无法和您面谈。但是你和卡琳娜女士的租赁合同即将到期，可能需要寻找下家，所以我选择了写信的方式，如果给您造成了不便，请您多加体谅。
 </div>
 
-<div style="font-family:KaiTi,'Kaiti SC',serif;font-size:1em;line-height:1.7;margin:0 0 1em 0;text-indent:0;margin-left:0;">
+<div class="letter">
 我知道在上周末发生的事情之后，你可能不会再希望延续我们的合同，甚至不会想再看见我一眼。我非常理解你的心情，所以如果你决定不租我的店铺，我可以将合同作废，也无需您的任何赔偿。如果您有别的疑虑但是不想见到我，也可以寄件，或者通过艾丽卡转达。我的地址就在信封的邮戳上。如果您仍然想租赁店面，也完全没有问题，但是我做了一些改动。我已经将店面全权转让到了艾丽卡的名下，但是手续还在周转中，最多还需要半个月。我问过艾丽卡的意见，她很乐意将店铺供你使用。如果你需要，在她的同意下可以提前搬入。至于店面具体的分配和使用权，都由你和艾丽卡决定，假如艾丽卡需要你支付房租，我也很乐意承担。
 </div>
 
-<div style="font-family:KaiTi,'Kaiti SC',serif;font-size:1em;line-height:1.7;margin:0 0 1em 0;text-indent:0;margin-left:0;">
+<div class="letter">
 给你们添了很多麻烦，我再次深表歉意。您也不需要有回信的负担——我明白我的所作所为不值得被您原谅，除非您选择这么做。所以，如果您能接受我的微薄的歉意，我会感激不尽。
 </div>
 
-<div style="font-family:KaiTi,'Kaiti SC',serif;font-size:1em;line-height:1.7;margin:0 0 1em 0;text-indent:0;margin-left:0;">
+<div class="letter">
 您诚挚的，
 </div>
 
-<div style="font-family:KaiTi,'Kaiti SC',serif;font-size:1em;line-height:1.7;margin:0 0 1em 0;text-indent:0;margin-left:0;">
+<div class="letter">
 麦瑟尔·安德森·埃普西隆
 </div>
 
@@ -338,7 +338,7 @@ hiddenInHomeList = true
 
 艾琳摇头，踩着黑色的皮鞋在地毯上来回踱步：“我认识的魔女里没有任何一位有和遗传相关的能力，我也问遍了大魔女，没人和你们家族有过魔法交易。所以只能让时伢穿越去交易现场目睹发生了什么。”
 
-麦瑟尔沉思片刻后，说：“我知道第一代得到遗传能力的叫普林斯·埃普西隆，他具体的生卒日我记不清了，我可以回去帮你查。比较奇怪的是，他并不是长子，那一代的长子叫诺伊。他们还有一个叫狄安娜的妹妹。”
+麦瑟尔沉思片刻后，说：“我知道第一代得到遗传能力的是欧若拉·埃普西隆，她具体的生卒日我记不清了，我可以回去帮你查。但欧若拉并不是埃普西隆的直系后裔，而是普林斯·埃普西隆的妻子。继承他们能力的孩子也不是长子，而是小儿子亨利。所以我们直到现在都猜不出当年究竟发生了什么。”
 
 再次听到了熟悉的名字后，艾琳感到脑海中的神经似紧绷的弦被来回拨弄，她吃痛地揉了揉眉心，语气里夹杂着若隐若现的无奈，喃喃道：“怎么又来这套。”
 
