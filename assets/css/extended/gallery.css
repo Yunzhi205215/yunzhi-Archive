@@ -1,0 +1,69 @@
+/* Lightbox customize灯箱效果样式 */
+.gallery-ordered{display:flex;flex-wrap:wrap;gap:1rem}
+.gallery-ordered .item{flex:1 1 calc(33.333% - 1rem);max-width:calc(33.333% - 1rem)}
+@media (max-width:1100px){.gallery-ordered .item{flex-basis:calc(50% - 1rem);max-width:calc(50% - 1rem)}}
+@media (max-width:640px){.gallery-ordered .item{flex-basis:100%;max-width:100%}}
+.gallery-ordered .thumb{width:100%;height:220px;object-fit:cover;display:block}
+
+
+/* 仅在能 hover 的设备启用（桌面端），触屏设备自动不生效 */
+@media (hover: hover) and (pointer: fine) {
+
+  /* 卡片容器：用它来承载反光层 */
+  .gallery-ordered .item {
+    position: relative;
+    display: inline-block;
+    overflow: hidden;              /* 让反光只在卡片内可见 */
+    border-radius: 16px;           /* 圆角可爱 */
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    transition: transform .3s ease;
+  }
+
+  /* 图片本体照常显示 */
+  .gallery-ordered .item img.thumb {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+
+  /* 轻轻放大 */
+  .gallery-ordered .item:hover {
+    transform: scale(1.03);
+  }
+
+  /* 反光层：用容器的 ::after，避免对 img 下伪元素无效的问题 */
+  .gallery-ordered .item::after {
+    content: "";
+    pointer-events: none;          /* 不挡点击/灯箱 */
+    position: absolute;
+    top: 0;
+    left: -60%;
+    width: 40%;
+    height: 100%;
+    background: linear-gradient(
+      120deg,
+      rgba(255,255,255,0) 0%,
+      rgba(255,255,255,0.35) 50%,
+      rgba(255,255,255,0) 100%
+    );
+    transform: skewX(-20deg);
+    opacity: 0.9;
+  }
+
+  /* 悬停时让反光从左划到右 */
+  .gallery-ordered .item:hover::after {
+    animation: shine 0.8s ease-out forwards;
+  }
+
+  @keyframes shine {
+    to { left: 120%; }
+  }
+}
+
+/* 让缩略图回到正方形：用 aspect-ratio 配合 cover 裁剪 */
+.gallery-ordered .item img.thumb {
+  display: block;
+  width: 100%;
+  aspect-ratio: 1 / 1;   /* 强制正方形 */
+  object-fit: cover;     /* 等比裁剪，居中铺满 */
+}
