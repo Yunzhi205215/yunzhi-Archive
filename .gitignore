@@ -1,4 +1,14 @@
-public/
-resources/
-.hugo_build.lock
+# macOS 垃圾文件
 .DS_Store
+
+# Hugo build 输出
+/public/
+/resources/
+/.hugo_build.lock
+
+# R 历史文件
+*.Rhistory
+*.Rapp.history
+
+# 临时文件
+*.log
