@@ -642,15 +642,6 @@ weight = 2
   </div>
 
   <div class="item">
-    <a href="/images/2021Halloween.png">
-      <img class="thumb" loading="lazy"
-           src="/images/2021Halloween.png"
-           alt="2021Halloween"
-           title="2021Halloween">
-    </a>
-  </div>
-
-  <div class="item">
     <a href="/images/Random18.png">
       <img class="thumb" loading="lazy"
            src="/images/Random18.png"
@@ -681,8 +672,8 @@ weight = 2
     <a href="/images/Irene_Halloween_2021.png">
       <img class="thumb" loading="lazy"
            src="/images/Irene_Halloween_2021.png"
-           alt="Irene_Halloween_2021"
-           title="Irene_Halloween_2021">
+           alt="Irene 2021 Halloween"
+           title="Irene 2021 Halloween">
     </a>
   </div>
 
@@ -692,6 +683,16 @@ weight = 2
            src="/images/Serein_Kid.png"
            alt="Serein kid"
            title="Serein kid">
+    </a>
+  </div>
+
+
+  <div class="item">
+    <a href="/images/2021Halloween.png">
+      <img class="thumb" loading="lazy"
+           src="/images/2021Halloween.png"
+           alt="2020 Halloween"
+           title="2020 Halloween">
     </a>
   </div>
 
