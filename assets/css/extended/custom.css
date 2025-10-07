@@ -71,6 +71,20 @@ a:hover {
   .home-info h1 { animation: none; }
 }
 
+/* 烛火金色文本 */
+.candle-text {
+  background: linear-gradient(90deg, #ffb347, #ffd60a, #ff9e2c);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-shadow: 0 0 8px rgba(255, 214, 10, 0.28),
+               0 0 18px rgba(255, 180, 71, 0.18);
+  animation: candle-breathe 3.2s ease-in-out infinite;
+  font-style: italic;
+  font-weight: bold;
+  text-align: left;
+  display: block; /* 让它像 <p> 一样独占一行 */
+}
+
 /* 背景效果：浅金色星屑 · 闪烁 + 流动 */
 html::before,
 html::after {

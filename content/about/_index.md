@@ -33,8 +33,9 @@ Feel free to reach out:
 Sharing is welcome with proper credit and a link to this site.</em>
 </p>
 
-
-
+<p style="text-indent:0; margin-left:0; font-size:0.9em; color:#777;">
+🌐 Note: In mainland China, this site may be inaccessible without a VPN.<br>
+</p>
 
 <script defer src="/js/cursor-stars.js"></script>
 
