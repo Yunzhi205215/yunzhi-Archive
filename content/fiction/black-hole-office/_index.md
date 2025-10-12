@@ -1,6 +1,7 @@
 +++
-title = "The Black Hole Office"
+title = "Black Hole Office"
 weight = 2
+date = 2024-12-29
 +++
 
 <p style="text-indent:0; margin-left:0;">

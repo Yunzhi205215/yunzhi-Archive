@@ -14,7 +14,7 @@ copyright = "© 2025 Yunzhi's Archive · All rights reserved"
 [params]
   author = "Yunzhi"
   ShowToc = true
-  ShowReadingTime = true
+  ShowReadingTime = false
   ShowPostNavLinks = false
   ShowBreadCrumbs = true
   ShowCodeCopyButtons = true

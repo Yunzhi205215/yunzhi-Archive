@@ -3,6 +3,7 @@ title  = "Chapter∅·PartI"
 draft  = false
 series = ["to-serein"]
 ShowToc = true
+date = 2021-02-28
 weight = 1
 hiddenInHomeList = true
 +++
