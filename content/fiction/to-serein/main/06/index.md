@@ -3,6 +3,7 @@ title  = "Chapter VI"
 draft  = false
 series = ["To Serein · Main"]
 tags   = ["To Serein"]
+date = 2025-04-14
 ShowToc = true
 weight = 6
 hiddenInHomeList = true

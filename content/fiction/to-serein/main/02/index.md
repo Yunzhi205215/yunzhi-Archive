@@ -2,6 +2,7 @@
 title = "Chapter II"
 series = ["To Serein · Main"]
 tags   = ["To Serein"]
+date = 2024-09-19
 ShowToc = true
 draft = false
 weight = 2

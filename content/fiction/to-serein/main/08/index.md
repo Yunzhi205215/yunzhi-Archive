@@ -4,6 +4,7 @@ draft  = false
 series = ["To Serein · Main"]
 tags   = ["To Serein"]
 ShowToc = true
+date = 2025-06-10
 weight = 8
 hiddenInHomeList = true
 +++
