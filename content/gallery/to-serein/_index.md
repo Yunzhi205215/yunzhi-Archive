@@ -12,6 +12,15 @@ weight = 2
 <div class="gallery-ordered">
 
   <div class="item">
+    <a href="/images/Irene_Halloween_2025.png">
+      <img class="thumb" loading="lazy"
+           src="/images/Irene_Halloween_2025.png"
+           alt="Irene Halloween 2025"
+           title="Irene Halloween 2025(ref)">
+    </a>
+  </div>
+
+  <div class="item">
     <a href="/images/Erica_Badge.png">
       <img class="thumb" loading="lazy"
            src="/images/Erica_Badge.png"
