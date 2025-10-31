@@ -21,6 +21,15 @@ weight = 2
   </div>
 
   <div class="item">
+    <a href="/images/Eidra_Halloween_2025.png">
+      <img class="thumb" loading="lazy"
+           src="/images/Eidra_Halloween_2025.png"
+           alt="Eidra Halloween 2025"
+           title="Eidra Halloween 2025">
+    </a>
+  </div>
+
+  <div class="item">
     <a href="/images/Erica_Badge.png">
       <img class="thumb" loading="lazy"
            src="/images/Erica_Badge.png"

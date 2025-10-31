@@ -10,7 +10,7 @@ draft = false
   Feel free to explore! ✨
 </div>
 
-![Irene Halloween](/images/Irene_Halloween.png)
+![Eidra Halloween](/images/Eidra_Halloween_2025.png)
 
 <script defer src="/js/cursor-stars.js"></script>
 
