@@ -3,14 +3,23 @@ title = 'Witch Lore'
 draft = false
 +++
 
-## 🧙‍♀️ Magic Witches
 <p style="text-indent:0; margin-left:0;">
-Here I collect stories, concepts, and background notes about the witch universe. ✨📖
+Here I collect stories, concepts, and background notes about the witch universe. ✨📖  
+Explore the archives to learn about the witches’ history, powers, and the mysteries of their world.
 </p>
 
-## 🔮 Magic Quiz
+---
+
+### 🪞 Archives  
+- [📜 Character Archive](characters/)  
+- [🌍 Worldbuilding Files](world/)  
+
+
+---
+
+### 🔮 Magic Quiz  
 <p style="text-indent:0; margin-left:0;">
-Curious which kind of witch you would be?
+Curious which kind of witch you would be?  
 </p>  
 
 <p align="center">
