@@ -1,5 +1,5 @@
 +++
-title = "艾琳 · Irene"
+title = "艾琳/Irene"
 date = 2025-10-31
 weight = 1
 tags = ["witch", "character", "main"]

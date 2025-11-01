@@ -1,5 +1,5 @@
 +++
-title = "安意 · Eidra"
+title = "安意/Eidra"
 date = 2025-11-01
 weight = 2
 tags = ["witch", "character", "main"]
