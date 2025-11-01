@@ -4,7 +4,6 @@ title = "Character Archive"
   list = "never"
 +++
 
-
 ## 🧙‍♀️ About this Section  
 <p style="text-indent:0; margin-left:0;">
 主要角色与配角的档案索引页: This section collects detailed profiles of witches and humans from the <b>Witch Universe</b> ✨  
