@@ -12,7 +12,7 @@ layout = "single"
 </p>
 
 <p style="text-align:center">
-  <sub><i>Commissioned artwork by 夏水</i></sub>
+  <sub><i>Commissioned artwork by 安眠日</i></sub>
 </p>
 
 ---
