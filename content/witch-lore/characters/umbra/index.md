@@ -2,7 +2,7 @@
 title = "咿莫/Umbra"
 date = 2025-11-01
 weight = 3
-tags = ["witch", "character", "main"]
+tags = ["witch", "character", "support"]
 type = "characters"
 layout = "single"
 +++

@@ -4,12 +4,39 @@ weight = 2
 +++
 
 <p style="text-indent:0; margin-left:0;"><em>
-✨ Arts are listed relatively chronologically, including illustrations, manga, figure drawing, and doodles.</em>
+✨ Arts are listed relatively chronologically, including illustrations, figure drawing, and doodles.</em>
 </p>
 
 ---
 
 <div class="gallery-ordered">
+
+  <div class="item">
+    <a href="/images/Ash_fig.png">
+      <img class="thumb" loading="lazy"
+           src="/images/Ash_fig.png"
+           alt="Ashley Laventhal"
+           title="Ashley Laventhal">
+    </a>
+  </div>
+
+  <div class="item">
+    <a href="/images/random27.png">
+      <img class="thumb" loading="lazy"
+           src="/images/random27.png"
+           alt="The Wedding 1"
+           title="The Wedding 1">
+    </a>
+  </div>
+
+  <div class="item">
+    <a href="/images/random28.png">
+      <img class="thumb" loading="lazy"
+           src="/images/random28.png"
+           alt="The Wedding 2"
+           title="The Wedding 2">
+    </a>
+  </div>
 
   <div class="item">
     <a href="/images/Irene_Halloween_2025.png">
@@ -178,7 +205,7 @@ weight = 2
       <img class="thumb" loading="lazy"
            src="/images/Random1.png"
            alt="随机插画 1"
-           title="Random 1">
+           title="Random 1 (ref)">
     </a>
   </div>
 
@@ -237,15 +264,6 @@ weight = 2
   </div>
 
   <div class="item">
-    <a href="/images/Random7.png">
-      <img class="thumb" loading="lazy"
-           src="/images/Random7.png"
-           alt="随机插画 7"
-           title="Random 7">
-    </a>
-  </div>
-
-  <div class="item">
     <a href="/images/Random8.png">
       <img class="thumb" loading="lazy"
            src="/images/Random8.png"
@@ -254,42 +272,7 @@ weight = 2
     </a>
   </div>
 
-  <div class="item">
-    <a href="/images/FD1.png">
-      <img class="thumb" loading="lazy"
-           src="/images/FD1.png"
-           alt="FD1"
-           title="FD1">
-    </a>
-  </div>
-
-  <div class="item">
-    <a href="/images/FD2.png">
-      <img class="thumb" loading="lazy"
-           src="/images/FD2.png"
-           alt="FD2"
-           title="FD2">
-    </a>
-  </div>
-
-  <div class="item">
-    <a href="/images/FD3.png">
-      <img class="thumb" loading="lazy"
-           src="/images/FD3.png"
-           alt="FD3"
-           title="FD3">
-    </a>
-  </div>
-
-  <div class="item">
-    <a href="/images/FD4.png">
-      <img class="thumb" loading="lazy"
-           src="/images/FD4.png"
-           alt="FD4"
-           title="FD4">
-    </a>
-  </div>
-
+  
   <div class="item">
     <a href="/images/Random9.png">
       <img class="thumb" loading="lazy"
@@ -408,114 +391,6 @@ weight = 2
   </div>
 
  <div class="item">
-    <a href="/images/Manga6-1.png">
-      <img class="thumb" loading="lazy"
-           src="/images/Manga6-1.png"
-           alt="Manga6-1"
-           title="Manga6-1">
-    </a>
-  </div>
-
- <div class="item">
-    <a href="/images/Manga6-2.png">
-      <img class="thumb" loading="lazy"
-           src="/images/Manga6-2.png"
-           alt="Manga6-2"
-           title="Manga6-2">
-    </a>
-  </div>
-
- <div class="item">
-    <a href="/images/Manga6-3.png">
-      <img class="thumb" loading="lazy"
-           src="/images/Manga6-3.png"
-           alt="Manga6-3"
-           title="Manga6-3">
-    </a>
-  </div>
-
- <div class="item">
-    <a href="/images/Manga6-4.png">
-      <img class="thumb" loading="lazy"
-           src="/images/Manga6-4.png"
-           alt="Manga6-4"
-           title="Manga6-4">
-    </a>
-  </div>
-
- <div class="item">
-    <a href="/images/Manga6-5.png">
-      <img class="thumb" loading="lazy"
-           src="/images/Manga6-5.png"
-           alt="Manga6-5"
-           title="Manga6-5">
-    </a>
-  </div>
-
- <div class="item">
-    <a href="/images/Manga6-6.png">
-      <img class="thumb" loading="lazy"
-           src="/images/Manga6-6.png"
-           alt="Manga6-6"
-           title="Manga6-6">
-    </a>
-  </div>
-
-  <div class="item">
-    <a href="/images/Manga1-1.png">
-      <img class="thumb" loading="lazy"
-           src="/images/Manga1-1.png"
-           alt="Manga1-1"
-           title="Manga1-1">
-    </a>
-  </div>
-
-  <div class="item">
-    <a href="/images/Manga1-2.png">
-      <img class="thumb" loading="lazy"
-           src="/images/Manga1-2.png"
-           alt="Manga1-2"
-           title="Manga1-2">
-    </a>
-  </div>
-
-  <div class="item">
-    <a href="/images/Manga2-1.png">
-      <img class="thumb" loading="lazy"
-           src="/images/Manga2-1.png"
-           alt="Manga2-1"
-           title="Manga2-1">
-    </a>
-  </div>
-
-  <div class="item">
-    <a href="/images/Manga3-1.png">
-      <img class="thumb" loading="lazy"
-           src="/images/Manga3-1.png"
-           alt="Manga3-1"
-           title="Manga3-1">
-    </a>
-  </div>
-
-  <div class="item">
-    <a href="/images/Manga4-1.png">
-      <img class="thumb" loading="lazy"
-           src="/images/Manga4-1.png"
-           alt="Manga4-1"
-           title="Manga4-1">
-    </a>
-  </div>
-
-  <div class="item">
-    <a href="/images/Manga4-2.png">
-      <img class="thumb" loading="lazy"
-           src="/images/Manga4-2.png"
-           alt="Manga4-2"
-           title="Manga4-2">
-    </a>
-  </div>
-
- <div class="item">
     <a href="/images/Irene_Church.png">
       <img class="thumb" loading="lazy"
            src="/images/Irene_Church.png"
@@ -548,96 +423,6 @@ weight = 2
            src="/images/Pridemonth3_2024.png"
            alt="Pride Month 2024"
            title="Pride Month 2024">
-    </a>
-  </div>
-
-  <div class="item">
-    <a href="/images/Manga5-1.png">
-      <img class="thumb" loading="lazy"
-           src="/images/Manga5-1.png"
-           alt="Manga5-1"
-           title="Manga5-1">
-    </a>
-  </div>
-
-  <div class="item">
-    <a href="/images/Manga5-2.png">
-      <img class="thumb" loading="lazy"
-           src="/images/Manga5-2.png"
-           alt="Manga5-2"
-           title="Manga5-2">
-    </a>
-  </div>
-
-  <div class="item">
-    <a href="/images/Manga5-3.png">
-      <img class="thumb" loading="lazy"
-           src="/images/Manga5-3.png"
-           alt="Manga5-3"
-           title="Manga5-3">
-    </a>
-  </div>
-
-  <div class="item">
-    <a href="/images/Manga5-4.png">
-      <img class="thumb" loading="lazy"
-           src="/images/Manga5-4.png"
-           alt="Manga5-4"
-           title="Manga5-4">
-    </a>
-  </div>
-
-  <div class="item">
-    <a href="/images/Manga5-5.png">
-      <img class="thumb" loading="lazy"
-           src="/images/Manga5-5.png"
-           alt="Manga5-5"
-           title="Manga5-5">
-    </a>
-  </div>
-
-  <div class="item">
-    <a href="/images/Manga5-6.png">
-      <img class="thumb" loading="lazy"
-           src="/images/Manga5-6.png"
-           alt="Manga5-6"
-           title="Manga5-6">
-    </a>
-  </div>
-
-  <div class="item">
-    <a href="/images/Manga5-7.png">
-      <img class="thumb" loading="lazy"
-           src="/images/Manga5-7.png"
-           alt="Manga5-7"
-           title="Manga5-7">
-    </a>
-  </div>
-
-  <div class="item">
-    <a href="/images/Manga5-8.png">
-      <img class="thumb" loading="lazy"
-           src="/images/Manga5-8.png"
-           alt="Manga5-8"
-           title="Manga5-8">
-    </a>
-  </div>
-
-  <div class="item">
-    <a href="/images/Random24.png">
-      <img class="thumb" loading="lazy"
-           src="/images/Random24.png"
-           alt="Random24"
-           title="Random24">
-    </a>
-  </div>
-
-  <div class="item">
-    <a href="/images/Random23.png">
-      <img class="thumb" loading="lazy"
-           src="/images/Random23.png"
-           alt="Random23"
-           title="Random23">
     </a>
   </div>
 

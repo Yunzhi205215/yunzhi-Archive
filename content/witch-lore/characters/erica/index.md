@@ -2,7 +2,7 @@
 title = "艾丽卡·埃普西隆/Erica·Epsilon"
 date = 2025-11-01
 weight = 4
-tags = ["human", "character", "to-serein"]
+tags = ["human", "character", "main"]
 type = "characters"
 layout = "single"
 +++

@@ -1,6 +1,6 @@
 +++
 title = "Doodles"
-weight = 3
+weight = 4
 +++
 
 <p style="text-indent:0; margin-left:0;">
@@ -21,6 +21,42 @@ weight = 3
            src="/images/Yunzhi.png"
            alt="Yunzhi"
            title="Yunzhi">
+    </a>
+  </div>
+
+  <div class="item">
+    <a href="/images/Very_First_Prct_art.png">
+      <img class="thumb" loading="lazy"
+           src="/images/Very_First_Prct_art.png"
+           alt="My first Procreate work"
+           title="My first Procreate work">
+    </a>
+  </div>
+
+  <div class="item">
+    <a href="/images/doodle26.png">
+      <img class="thumb" loading="lazy"
+           src="/images/doodle26.png"
+           alt="doodle26"
+           title="doodle26">
+    </a>
+  </div>
+
+  <div class="item">
+    <a href="/images/Random24.png">
+      <img class="thumb" loading="lazy"
+           src="/images/Random24.png"
+           alt="Random24"
+           title="Random24">
+    </a>
+  </div>
+
+  <div class="item">
+    <a href="/images/Random23.png">
+      <img class="thumb" loading="lazy"
+           src="/images/Random23.png"
+           alt="Random23"
+           title="Random23">
     </a>
   </div>
 
@@ -122,6 +158,34 @@ weight = 3
            title="doodle6">
     </a>
   </div>
+
+  <div class="item">
+    <a href="/images/FD2.png">
+      <img class="thumb" loading="lazy"
+           src="/images/FD2.png"
+           alt="FD2"
+           title="FD2">
+    </a>
+  </div>
+
+  <div class="item">
+    <a href="/images/FD3.png">
+      <img class="thumb" loading="lazy"
+           src="/images/FD3.png"
+           alt="FD3"
+           title="FD3">
+    </a>
+  </div>
+
+  <div class="item">
+    <a href="/images/FD4.png">
+      <img class="thumb" loading="lazy"
+           src="/images/FD4.png"
+           alt="FD4"
+           title="FD4">
+    </a>
+  </div>
+
 
   <div class="item">
     <a href="/images/doodle7.png">
@@ -264,15 +328,6 @@ weight = 3
            src="/images/Lin_Zhihui.png"
            alt="林知惠"
            title="林知惠">
-    </a>
-  </div>
-
-  <div class="item">
-    <a href="/images/Very_First_Prct_art.png">
-      <img class="thumb" loading="lazy"
-           src="/images/Very_First_Prct_art.png"
-           alt="My first Procreate work"
-           title="My first Procreate work">
     </a>
   </div>
 
