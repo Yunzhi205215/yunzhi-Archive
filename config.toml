@@ -42,7 +42,7 @@ copyright = "© 2025 Yunzhi's Archive · All rights reserved"
   identifier = "home"
   name = "🧙🏻‍♀️Home"
   url = "/"
-  weight = 0
+  weight = -100
 
 
 # 🧙🏻‍♀️ 首页
