@@ -12,6 +12,24 @@ weight = 2
 <div class="gallery-ordered">
 
   <div class="item">
+    <a href="/images/01272026.png">
+      <img class="thumb" loading="lazy"
+           src="/images/01272026.png"
+           alt="Irene Roses"
+           title="Irene Roses">
+    </a>
+  </div>
+
+  <div class="item">
+    <a href="/images/12222025.png">
+      <img class="thumb" loading="lazy"
+           src="/images/12222025.png"
+           alt="Irene Fashion Magazine"
+           title="Irene Fashion Magazine">
+    </a>
+  </div>
+
+  <div class="item">
     <a href="/images/Ash_fig.png">
       <img class="thumb" loading="lazy"
            src="/images/Ash_fig.png"

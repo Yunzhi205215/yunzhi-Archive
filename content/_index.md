@@ -10,6 +10,10 @@ draft = false
   Feel free to explore! ✨
 </div>
 
+<em style="font-size:0.9rem; opacity:0.75;">
+  All creative works on this site are created entirely by Yunzhi. No AI-generated content is used.
+</em>
+
 ![Eidra Halloween](/images/Eidra_Halloween_2025.png)
 
 <script defer src="/js/cursor-stars.js"></script>

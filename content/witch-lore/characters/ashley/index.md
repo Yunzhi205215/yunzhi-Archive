@@ -1,5 +1,5 @@
 +++
-title = "艾什利·拉文什/Ashley·Laventhal"
+title = "艾什利·拉文什/Ashley Laventhal"
 date = 2025-12-15
 weight = 6
 tags = ["human", "character", "support"]

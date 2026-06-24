@@ -159,6 +159,10 @@ html::after {
   text-shadow: 0 0 6px rgba(255, 208, 120, 0.6); /* 烛火光感 */
 }
 
+.chapter-nav .nav-placeholder {
+  display: inline-block;
+  min-width: 4em; /* 和 Next » 视觉宽度差不多 */
+}
 
 
 /* 主光点：魔女紫五角星 + 银紫光晕 */

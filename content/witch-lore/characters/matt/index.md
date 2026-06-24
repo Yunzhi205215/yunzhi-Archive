@@ -1,5 +1,5 @@
 +++
-title = "麦瑟尔·安德森·埃普西隆/Matthew·Anderson·Epsilon"
+title = "麦瑟尔·安德森·埃普西隆/Matthew Anderson Epsilon"
 date = 2025-11-01
 weight = 5
 tags = ["human", "character", "main"]
