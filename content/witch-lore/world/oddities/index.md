@@ -36,5 +36,7 @@ layout = "single"
 
 - <p style="text-indent:0; margin-left:0;">✨艾琳是个颜狗，不帅的不睡。</p>
 
+- <p style="text-indent:0; margin-left:0;">✨魔女体内的魔力会不断耗能，所以哪怕是休息时，热量消耗也相当于人类在高强度体能训练。因此魔女比普通人类更容易饿，食量也大很多，却不会长胖。</p>
+
 
 <script defer src="/js/cursor-stars.js"></script>
